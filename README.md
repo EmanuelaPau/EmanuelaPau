@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Emanuela a passionate Full Stack developer from Italy.
 
 <!--
 **EmanuelaPau/EmanuelaPau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
