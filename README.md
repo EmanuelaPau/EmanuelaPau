@@ -1,8 +1,5 @@
 ### Hi 👋, I'm Emanuela a passionate Full Stack developer from Italy 🇮🇹.
 
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
-
 <!--
 **EmanuelaPau/EmanuelaPau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
