@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Emanuela a passionate Full Stack developer from Italy 🇮🇹.
 
-- 🖌 I've always been a creative person 🎨✨, I have a master degree 📜 in design and I have worked as a graphic designer for 3 years. But I was unappy...<br>
-- 💡 In 2023 my curiosity and my need for challenge has brought me to want to learn to code 💻 what I used to design. <br>
-- 💭 That's how I discovered a passion❤️‍🔥! Coding is really challenging and I love to use my creativity to find the solutions 📐 I need to make what I imagine. <br>
+🖌 I've always been a creative person 🎨✨, I have a master degree 📜 in design and I have worked as a graphic designer for 3 years. But I was unappy...<br><br>
+💡 In 2023 my curiosity and my need for challenge has brought me to want to learn to code 💻 what I used to design. <br><br>
+💭 That's how I discovered a passion❤️‍🔥! Coding is really challenging and I love to use my creativity to find the solutions 📐 I need to make what I imagine. <br><br>
 
 <h4>Here you can see some of my Stats!✨</h4>
 
