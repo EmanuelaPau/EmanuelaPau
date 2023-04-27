@@ -4,7 +4,7 @@ I've always been a creative person 🖌🎨✨, I have a master degree 📜 in d
 In 2023 my curiosity and my need for challenge has brought me to want to learn to code 💻 what I used to design. <br>
 That's how I discovered a passion💡! Coding is really challenging and I love to use my creativity to find the solutions 📐 I need to make what I imagine 💭. <br>
 
-<h5>Here you can see some of my Stats!✨</h5>
+<h3>Here you can see some of my Stats!✨</h3>
 
 
 ![Emanuela's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelaPau&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaPau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
