@@ -8,6 +8,8 @@
 
 
 ![Emanuela's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelaPau&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaPau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmanuelaPau&theme=dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **EmanuelaPau/EmanuelaPau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
