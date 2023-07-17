@@ -20,9 +20,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=EmanuelaPau&theme=dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </details>
 
-<h2>🧰 My toolbox 🧰</h2>
+<h4>🧰 My toolbox 🧰</h4>
 
-<h4>Development</h4>
+<h5>Development</h5>
 <p float="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h4>Design</h4>
+<h5>Design</h5>
 <p float="left">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
